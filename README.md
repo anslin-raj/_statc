@@ -1,1 +1,1 @@
-# art_artworld_static_web
+# _static
